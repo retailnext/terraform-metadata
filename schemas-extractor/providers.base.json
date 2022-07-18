@@ -555,4 +555,137 @@
   "xray": {"repository": "github.com/jfrog/terraform-provider-xray"},
   "zedcloud": {"repository": "github.com/zededa/terraform-provider-zedcloud"},
   "zerotier": {"repository": "github.com/zerotier/terraform-provider-zerotier"}
+  ,
+"azapi": {
+  "repository": "github.com/Azure/terraform-provider-azapi"
+}
+,
+"cloudngfwaws": {
+  "repository": "github.com/PaloAltoNetworks/terraform-provider-cloudngfwaws"
+}
+,
+"cloudvision": {
+  "repository": "github.com/aristanetworks/terraform-provider-cloudvision"
+}
+,
+"clumio": {
+  "repository": "github.com/clumio-code/terraform-provider-clumio"
+}
+,
+"confluent": {
+  "repository": "github.com/confluentinc/terraform-provider-confluent"
+}
+,
+"coralogix": {
+  "repository": "github.com/coralogix/terraform-provider-coralogix"
+}
+,
+"couchbasecapella": {
+  "repository": "github.com/couchbasecloud/terraform-provider-couchbasecapella"
+}
+,
+"cpln": {
+  "repository": "github.com/controlplane-com/terraform-provider-cpln"
+}
+,
+"delphix": {
+  "repository": "github.com/delphix-integrations/terraform-provider-delphix"
+}
+,
+"devcycle": {
+  "repository": "github.com/DevCycleHQ/terraform-provider-devcycle"
+}
+,
+"dockerless": {
+  "repository": "github.com/nullstone-io/terraform-provider-dockerless"
+}
+,
+"dsm": {
+  "repository": "github.com/fortanix/terraform-provider-dsm"
+}
+,
+"fic": {
+  "repository": "github.com/nttcom/terraform-provider-fic"
+}
+,
+"firehydrant": {
+  "repository": "github.com/firehydrant/terraform-provider-firehydrant"
+}
+,
+"fortianalyzer": {
+  "repository": "github.com/fortinetdev/terraform-provider-fortianalyzer"
+}
+,
+"fusion": {
+  "repository": "github.com/PureStorage-OpenConnect/terraform-provider-fusion"
+}
+,
+"infinity-next": {
+  "repository": "github.com/CheckPointSW/terraform-provider-infinity-next"
+}
+,
+"ionosdeveloper": {
+  "repository": "github.com/ionos-developer/terraform-provider-ionosdeveloper"
+}
+,
+"iosxe": {
+  "repository": "github.com/CiscoDevNet/terraform-provider-iosxe"
+}
+,
+"junos-vsrx": {
+  "repository": "github.com/Juniper/terraform-provider-junos-vsrx"
+}
+,
+"kion": {
+  "repository": "github.com/kionsoftware/terraform-provider-kion"
+}
+,
+"lumen": {
+  "repository": "github.com/LumenTech/terraform-provider-lumen"
+}
+,
+"netris": {
+  "repository": "github.com/netrisai/terraform-provider-netris"
+}
+,
+"pipeline": {
+  "repository": "github.com/jfrog/terraform-provider-pipeline"
+}
+,
+"rockset": {
+  "repository": "github.com/rockset/terraform-provider-rockset"
+}
+,
+"salesforce": {
+  "repository": "github.com/hashicorp/terraform-provider-salesforce"
+}
+,
+"site24x7": {
+  "repository": "github.com/site24x7/terraform-provider-site24x7"
+}
+,
+"snowflake": {
+  "repository": "github.com/Snowflake-Labs/terraform-provider-snowflake"
+}
+,
+"stackbill": {
+  "repository": "github.com/assistanz/terraform-provider-stackbill"
+}
+,
+"thousandeyes": {
+  "repository": "github.com/thousandeyes/terraform-provider-thousandeyes"
+}
+,
+"vercel": {
+  "repository": "github.com/vercel/terraform-provider-vercel"
+}
+,
+"zia": {
+  "repository": "github.com/zscaler/terraform-provider-zia"
+}
+,
+"zpa": {
+  "repository": "github.com/zscaler/terraform-provider-zpa"
+}
+
 }
